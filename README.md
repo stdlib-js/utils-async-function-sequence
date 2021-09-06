@@ -202,6 +202,21 @@ f( 5, 3, done );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/async/compose`][@stdlib/utils/async/compose]: function composition.
+-   [`@stdlib/utils/function-sequence`][@stdlib/utils/function-sequence]: function sequence.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -260,6 +275,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-async-function-sequence/main/LICENSE
 
 [@stdlib/utils/async/compose]: https://github.com/stdlib-js/utils-async-compose
+
+<!-- <related-links> -->
+
+[@stdlib/utils/async/compose]: https://github.com/stdlib-js/utils-async-compose
+
+[@stdlib/utils/function-sequence]: https://github.com/stdlib-js/utils-function-sequence
+
+<!-- </related-links> -->
 
 </section>
 
