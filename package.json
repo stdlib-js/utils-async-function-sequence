@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/utils-async-function-sequence",
+  "version": "0.0.0",
+  "description": "Function sequence.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-async-function-sequence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utils",
+    "util",
+    "asynchronous",
+    "async",
+    "sequence",
+    "seq",
+    "pipe",
+    "pipeline",
+    "pipelining",
+    "function",
+    "fun",
+    "funseq",
+    "func",
+    "fcn",
+    "functional",
+    "transform"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
