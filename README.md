@@ -218,8 +218,8 @@ f( 5, 3, done );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/async/compose`][@stdlib/utils/async/compose]</span><span class="delimiter">: </span><span class="description">function composition.</span>
--   <span class="package-name">[`@stdlib/utils/function-sequence`][@stdlib/utils/function-sequence]</span><span class="delimiter">: </span><span class="description">function sequence.</span>
+-   <span class="package-name">[`@stdlib/utils-async/compose`][@stdlib/utils/async/compose]</span><span class="delimiter">: </span><span class="description">function composition.</span>
+-   <span class="package-name">[`@stdlib/utils-function-sequence`][@stdlib/utils/function-sequence]</span><span class="delimiter">: </span><span class="description">function sequence.</span>
 
 </section>
 
