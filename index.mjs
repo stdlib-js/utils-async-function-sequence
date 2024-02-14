@@ -1,4 +1,0 @@
-// Copyright (c) 2024 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-function@v0.1.1-esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/string-format@v0.1.1-esm/index.mjs";function e(){var e,r,i;if((e=arguments.length)<2)throw new Error("insufficient arguments. Must provide multiple functions to execute sequentially.");for(r=new Array(e),i=0;i<e;i++)if(r[i]=arguments[i],!t(r[i]))throw new TypeError(n("invalid argument. All arguments must be functions. Value: `%s`.",r[i]));return s;function s(){var t,n,i;for(t=arguments[arguments.length-1],n=new Array(arguments.length-1),i=0;i<n.length;i++)n[i]=arguments[i];function s(n,l){return n?t(n):(i+=1)===e?t(null,l):void r[i](l,s)}n.push(s),r[i=0].apply(null,n)}}export{e as default};
-//# sourceMappingURL=index.mjs.map
