@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@esm/index.mjs';
+import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@v0.2.2-esm/index.mjs';
 ```
 
 #### funseqAsync( ...fcn )
@@ -162,7 +162,7 @@ f( 4, 6, done );
 <body>
 <script type="module">
 
-import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@esm/index.mjs';
+import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@v0.2.2-esm/index.mjs';
 
 function a( x, y, next ) {
     setTimeout( onTimeout, 0 );
