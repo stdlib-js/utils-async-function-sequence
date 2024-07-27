@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@deno/mod.js';
+import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@v0.2.2-deno/mod.js';
 ```
 
 #### funseqAsync( ...fcn )
@@ -157,7 +157,7 @@ f( 4, 6, done );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@deno/mod.js';
+import funseqAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-function-sequence@v0.2.2-deno/mod.js';
 
 function a( x, y, next ) {
     setTimeout( onTimeout, 0 );
