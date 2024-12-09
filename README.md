@@ -314,8 +314,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/async/compose]: https://github.com/stdlib-js/utils-async-compose
-
 [@stdlib/utils/function-sequence]: https://github.com/stdlib-js/utils-function-sequence
 
 <!-- </related-links> -->
